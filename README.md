@@ -12,8 +12,6 @@
     </a>
 </p>
 
-![image](https://user-images.githubusercontent.com/28979768/171992198-a0c53315-e676-4211-b7a1-b057be5f30a9.png)
-
 <p>
   <img
   width="334"
@@ -25,4 +23,4 @@
   />
 </p>
 
-
+![image](https://user-images.githubusercontent.com/28979768/171992198-a0c53315-e676-4211-b7a1-b057be5f30a9.png)

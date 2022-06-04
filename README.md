@@ -18,4 +18,4 @@
 </a>
 <br />
 
-![gohper](https://github.com/debuginn/leetcode/blob/master/gophertop.png)
+![gohper](![image](https://user-images.githubusercontent.com/28979768/171992178-fd2f3927-cd39-43fc-85d9-40bc2a81437f.png))

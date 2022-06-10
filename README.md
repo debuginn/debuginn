@@ -23,4 +23,8 @@
   />
 </p>
 
-![image](https://user-images.githubusercontent.com/28979768/171992198-a0c53315-e676-4211-b7a1-b057be5f30a9.png)
+<p>
+    <a href="https://debuginn.cn" target="_blank" rel="noopener">
+        <img src="https://user-images.githubusercontent.com/28979768/171992198-a0c53315-e676-4211-b7a1-b057be5f30a9.png" alt="debuginn">
+    </a>
+</p>

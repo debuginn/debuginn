@@ -4,8 +4,7 @@
 - 👨‍🏫 [Sunday, May 1, 2022 使用 pprof 对 Go 程序进行分析优化](https://www.debuginn.cn/7444.html)
 - 🦄 [Saturday, April 9, 2022 Go 语言学习进阶之路](https://www.debuginn.cn/7402.html)
 - 💃 [Friday, December 31, 2021 2021 年度总结](https://www.debuginn.cn/7284.html)
-- 🤔 [Saturday, December 11, 2021 我们是如何用 Prometheus 对网关进行监控的](https://www.debuginn.cn/7288.html)
-- 🌋 [Thursday, September 23, 2021 来小米，一起玩 ！！！](https://www.debuginn.cn/7207.html)<!-- BLOG-POST-LIST:END -->
+- 🤔 [Saturday, December 11, 2021 我们是如何用 Prometheus 对网关进行监控的](https://www.debuginn.cn/7288.html)<!-- BLOG-POST-LIST:END -->
 
 
 [![Feedly](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ffeedly%2Fhttps%253A%252F%252Fwww.debuginn.cn%252Ffeed&query=count&color=282c34&label=Feedly&labelColor=2bb24c&logo=feedly&logoColor=ffffff&suffix=+subs&cacheSeconds=3600)](https://www.debuginn.cn)

@@ -14,24 +14,20 @@
 
 ### 📝 博客最近更新
 
-<a href="#">
-    <img
-    align='right'
-    width="400"
-    src="https://github-readme-stats.vercel.app/api?username=debuginn&show_icons=true&&theme=radical&layout=compact"
-    />
-</a>
-
 <!-- BLOG-POST-LIST:START -->
-- 👨‍🏫 [使用 pprof 对 Go 程序进行分析优化](https://www.debuginn.cn/7444.html) 
-
-- 🦄 [Go 语言学习进阶之路](https://www.debuginn.cn/7402.html) 
-
-- 💃 [2021 年度总结](https://www.debuginn.cn/7284.html) 
-
-- 🤔 [我们是如何用 Prometheus 对网关进行监控的](https://www.debuginn.cn/7288.html) 
-
-- 🌋 [来小米，一起玩 ！！！](https://www.debuginn.cn/7207.html) 
-
-- ⛽️ [Git 命令 reset 和 revert 的区别](https://www.debuginn.cn/7170.html) 
 <!-- BLOG-POST-LIST:END -->
+
+<p>
+    <a href="#">
+  <img
+  width="334"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuginn&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+  />
+        </a><a href="#">
+  <img
+  width="460"
+  src="https://github-readme-stats.vercel.app/api?username=debuginn&show_icons=true&&theme=radical&layout=compact"
+  />
+    </a>
+</p>
+

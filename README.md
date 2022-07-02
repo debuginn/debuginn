@@ -29,5 +29,16 @@
 <p>
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- 👨‍🏫 [使用 pprof 对 Go 程序进行分析优化](https://www.debuginn.cn/7444.html) 
+
+- 🦄 [Go 语言学习进阶之路](https://www.debuginn.cn/7402.html) 
+
+- 💃 [2021 年度总结](https://www.debuginn.cn/7284.html) 
+
+- 🤔 [我们是如何用 Prometheus 对网关进行监控的](https://www.debuginn.cn/7288.html) 
+
+- 🌋 [来小米，一起玩 ！！！](https://www.debuginn.cn/7207.html) 
+
+- ⛽️ [Git 命令 reset 和 revert 的区别](https://www.debuginn.cn/7170.html) 
 <!-- BLOG-POST-LIST:END -->
 </p>

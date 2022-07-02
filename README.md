@@ -17,7 +17,7 @@
 <a href="#">
     <img
     align='right'
-    width="330"
+    width="400"
     src="https://github-readme-stats.vercel.app/api?username=debuginn&show_icons=true&&theme=radical&layout=compact"
     />
 </a>

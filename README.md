@@ -14,7 +14,11 @@
 
 ### 📝 博客最近更新
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- 👨‍🏫 [Sun May 01 2022 10:12 AM 使用 pprof 对 Go 程序进行分析优化](https://www.debuginn.cn/7444.html) 
+- 🦄 [Sat Apr 09 2022 5:53 AM Go 语言学习进阶之路](https://www.debuginn.cn/7402.html) 
+- 💃 [Fri Dec 31 2021 12:00 AM 2021 年度总结](https://www.debuginn.cn/7284.html) 
+- 🤔 [Sat Dec 11 2021 12:00 PM 我们是如何用 Prometheus 对网关进行监控的](https://www.debuginn.cn/7288.html) 
+- 🌋 [Thu Sep 23 2021 3:57 PM 来小米，一起玩 ！！！](https://www.debuginn.cn/7207.html) 
 <!-- BLOG-POST-LIST:END -->
 
 <p>

@@ -33,3 +33,6 @@
     </a>
 </p>
 
+<p>
+![](https://activity-graph.herokuapp.com/graph?username=debuginn&theme=github)
+</p>

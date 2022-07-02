@@ -12,20 +12,15 @@
     </a>
 </p>
 
-<p>
-    <a href="#">
-  <img
-  width="334"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuginn&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
-  />
-        </a><a href="#">
-  <img
-  width="460"
-  src="https://github-readme-stats.vercel.app/api?username=debuginn&show_icons=true&&theme=radical&layout=compact"
-  />
-    </a>
-</p>
+### 📝 博客最近更新
 
+<a href="#">
+    <img
+    align='right'
+    width="330"
+    src="https://github-readme-stats.vercel.app/api?username=debuginn&show_icons=true&&theme=radical&layout=compact"
+    />
+</a>
 
 <!-- BLOG-POST-LIST:START -->
 - 👨‍🏫 [使用 pprof 对 Go 程序进行分析优化](https://www.debuginn.cn/7444.html) 

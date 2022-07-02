@@ -26,7 +26,7 @@
     </a>
 </p>
 
-<p>
+
 <!-- BLOG-POST-LIST:START -->
 - 👨‍🏫 [使用 pprof 对 Go 程序进行分析优化](https://www.debuginn.cn/7444.html) 
 
@@ -40,4 +40,3 @@
 
 - ⛽️ [Git 命令 reset 和 revert 的区别](https://www.debuginn.cn/7170.html) 
 <!-- BLOG-POST-LIST:END -->
-</p>

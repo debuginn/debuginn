@@ -14,12 +14,12 @@
 <p>
     <a href="#">
   <img
-  width="334"
+  width="334" height="195" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuginn&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
   />
         </a><a href="#">
   <img
-  width="460"
+  width="460" height="200" 
   src="https://github-readme-stats.vercel.app/api?username=debuginn&show_icons=true&&theme=radical&layout=compact"
   />
     </a>

@@ -1,10 +1,10 @@
 ### 🤠 Hi，我是 Meng小羽
 
 <!-- BLOG-POST-LIST:START -->
-- 👨‍🏫 [Friday, March 3, 2023 如何将豆瓣观影记录实时同步至博客中](https://blog.debuginn.cn/douban-movies-to-blog/)
-- 🦄 [Wednesday, February 15, 2023 FAAS 调研笔记](https://blog.debuginn.cn/faas-notes/)
-- 💃 [Sunday, February 12, 2023 长桥港美股团办活动](https://blog.debuginn.cn/financing-long-bridge/)
-- 🤔 [Saturday, December 31, 2022 2022 年度总结](https://blog.debuginn.cn/debuginn-2022/)<!-- BLOG-POST-LIST:END -->
+- 👨‍🏫 [Monday, March 13, 2023 Restful API 设计指北](https://blog.debuginn.cn/design-restful-api/)
+- 🦄 [Friday, March 3, 2023 如何将豆瓣观影记录实时同步至博客中](https://blog.debuginn.cn/douban-movies-to-blog/)
+- 💃 [Wednesday, February 15, 2023 FAAS 调研笔记](https://blog.debuginn.cn/faas-notes/)
+- 🤔 [Sunday, February 12, 2023 长桥港美股团办活动](https://blog.debuginn.cn/financing-long-bridge/)<!-- BLOG-POST-LIST:END -->
 
 [![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fdebuginn&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/debuginn)
 [![微博](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fweibo%2F7096209693&query=count&color=040000&label=%E5%BE%AE%E5%8D%9A&labelColor=e71f19&logo=sina-weibo&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://weibo.com/7096209693)

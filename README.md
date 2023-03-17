@@ -12,17 +12,18 @@
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fdebuginn&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/debuginn)
 
 <p>
-    <a href="#">
-  <img
+  <a href="#">
+      <img
+      width="460" height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=debuginn&show_icons=true&&theme=radical&layout=compact"
+      />
+  </a>
+  <a href="#">
+    <img
   width="334" height="195" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuginn&hide=csshandlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
   />
-        </a><a href="#">
-  <img
-  width="460" height="200" 
-  src="https://github-readme-stats.vercel.app/api?username=debuginn&show_icons=true&&theme=radical&layout=compact"
-  />
-    </a>
+  </a>
 </p>
 <p>
     <a href="#">

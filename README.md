@@ -17,6 +17,9 @@
     <img height="159px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuginn&layout=compact&hide=javascript,html,css,php,scss" />
   </a>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=go,java,cpp,mysql,redis,git,vim,idea,docker,grafana,kubernetes,linux,md&theme=light)](https://blog.debuginn.cn/pages/project/)
+
 <p>
   <a href="https://blog.debuginn.cn/pages/subscribe/>
     <img width="100%" src="https://user-images.githubusercontent.com/28979768/205839699-c9820d6f-6187-4399-ac08-f5dcd7678c94.png" />

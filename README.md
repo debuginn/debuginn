@@ -16,7 +16,7 @@
       <img height="159px" src="https://github-readme-stats.vercel.app/api?username=debuginn&show_icons=true&&theme=default&layout=compact" />
   </a>
   <a href="#">
-    <img height="159px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuginn&layout=compact" />
+    <img height="159px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuginn&layout=compact&hide=javascript,html,css,php,scss" />
   </a>
 </p>
 <p>

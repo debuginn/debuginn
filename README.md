@@ -19,6 +19,6 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,cpp,mysql,redis,git,vim,idea,docker,grafana,kubernetes,linux,md&theme=light)](https://blog.debuginn.cn/pages/project/)
+[![My Skills](https://skillicons.dev/icons?i=go,java,spring,maven,mysql,redis,linux,bash,docker,kubernetes,grafana,prometheus,nginx,git,vim,idea,vscode,md&theme=light)](https://blog.debuginn.cn/pages/project/)
                                                                                                                         
 ![wechat](https://user-images.githubusercontent.com/28979768/205839699-c9820d6f-6187-4399-ac08-f5dcd7678c94.png)

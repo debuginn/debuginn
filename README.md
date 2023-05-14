@@ -1,10 +1,10 @@
 ### 🤠 Hi，我是 Meng小羽
 
 <!-- BLOG-POST-LIST:START -->
-- 👨‍🏫 [Wednesday, February 15, 2023 FAAS 调研笔记](https://blog.debuginn.cn/faas-notes/)
-- 🦄 [Sunday, February 12, 2023 长桥港美股团办活动](https://blog.debuginn.cn/financing-long-bridge/)
-- 💃 [Saturday, December 31, 2022 2022 年度总结](https://blog.debuginn.cn/debuginn-2022/)
-- 🤔 [Sunday, May 1, 2022 使用 pprof 对 Go 程序进行分析优化](https://blog.debuginn.cn/go-tools-pprof/)<!-- BLOG-POST-LIST:END -->
+- 👨‍🏫 [Sunday, May 14, 2023 全站静态化升级完毕](https://blog.debuginn.cn/debuginn-hugo-blog/)
+- 🦄 [Wednesday, February 15, 2023 FAAS 调研笔记](https://blog.debuginn.cn/faas-notes/)
+- 💃 [Sunday, February 12, 2023 长桥港美股团办活动](https://blog.debuginn.cn/financing-long-bridge/)
+- 🤔 [Saturday, December 31, 2022 2022 年度总结](https://blog.debuginn.cn/debuginn-2022/)<!-- BLOG-POST-LIST:END -->
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fdebuginn&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/debuginn)
 [![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fdebuginn&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/debuginn)

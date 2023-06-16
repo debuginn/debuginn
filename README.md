@@ -13,7 +13,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=debuginn&color=blueviolet)](https://github.com/debuginn)
 
 <p>
-  <a href="https://blog.debuginn.cn/pages/project/">
+  <a href="https://blog.debuginn.cn/project/">
     <img height="159px" src="https://github-readme-stats.vercel.app/api?username=debuginn&show_icons=true&&theme=default&layout=compact" />
     <img height="159px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuginn&layout=compact&hide=javascript,html,css,php,scss" />
   </a>

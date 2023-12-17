@@ -7,7 +7,7 @@
 - 🤔 [Sunday, May 14, 2023 全站静态化升级完毕](https://blog.debuginn.com/p/debuginn-hugo-blog/)<!-- BLOG-POST-LIST:END -->
 
 [![Blog](https://img.shields.io/badge/blog.debuginn.com-0066ff?logo=blogger&logoColor=white)](https://blog.debuginn.com)
-[![X](https://img.shields.io/badge/@idebuginn-000000?logo=x&logoColor=white)](https://blog.debuginn.com)
+[![X](https://img.shields.io/badge/@idebuginn-000000?logo=x&logoColor=white)](https://twitter.com/idebuginn)
 [![Telegram](https://img.shields.io/badge/@idebuginn-ac00e6?logo=telegram&logoColor=white)](https://t.me/idebuginn)
 [![WeChat](https://img.shields.io/badge/@debuginn-07C160?logo=wechat&logoColor=white)](https://blog.debuginn.com/subscribe)
 [![Profile views](https://komarev.com/ghpvc/?username=debuginn&color=blueviolet)](https://github.com/debuginn)

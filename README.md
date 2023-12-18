@@ -13,10 +13,8 @@
 [![Profile views](https://komarev.com/ghpvc/?username=debuginn&color=blueviolet)](https://github.com/debuginn)
 
 <p>
-  <a href="https://blog.debuginn.com/project/">
     <img height="159px" src="https://github-readme-stats.vercel.app/api?username=debuginn&show_icons=true&&theme=default&layout=compact" />
     <img height="159px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuginn&layout=compact&hide=javascript,html,css,php,scss" />
-  </a>
 </p>
 
-![技能树](https://skillicons.dev/icons?i=go,java,spring,maven,mysql,postgres,redis,mongodb,linux,bash,docker,kubernetes,grafana,prometheus,nginx,git,vim,idea,vscode,md,postman,stackoverflow&theme=light)
+[![技能树](https://skillicons.dev/icons?i=go,java,spring,maven,mysql,postgres,redis,mongodb,linux,bash,docker,kubernetes,grafana,prometheus,nginx,git,vim,idea,vscode,md,postman,stackoverflow&theme=light)](https://blog.debuginn.com/project/)

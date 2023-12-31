@@ -1,10 +1,10 @@
 ### 🤠 Hi，我是 Meng小羽
 
 <!-- BLOG-POST-LIST:START -->
-- 👨‍🏫 [Monday, December 4, 2023 2023 年为何我还在使用 RSS](https://blog.debuginn.com/p/debuginn-2023-rss/)
-- 🦄 [Sunday, November 12, 2023 谈谈 ChatGPT](https://blog.debuginn.com/p/talk-about-chat-gpt/)
-- 💃 [Monday, July 10, 2023 如何接手并维护一个项目](https://blog.debuginn.com/p/how-to-take-over-a-project/)
-- 🤔 [Sunday, May 14, 2023 全站静态化升级完毕](https://blog.debuginn.com/p/debuginn-hugo-blog/)<!-- BLOG-POST-LIST:END -->
+- 👨‍🏫 [Sunday, December 31, 2023 2023 年度总结](https://blog.debuginn.com/p/debuginn-2023/)
+- 🦄 [Monday, December 4, 2023 2023 年为何我还在使用 RSS](https://blog.debuginn.com/p/debuginn-2023-rss/)
+- 💃 [Sunday, November 12, 2023 谈谈 ChatGPT](https://blog.debuginn.com/p/talk-about-chat-gpt/)
+- 🤔 [Monday, July 10, 2023 如何接手并维护一个项目](https://blog.debuginn.com/p/how-to-take-over-a-project/)<!-- BLOG-POST-LIST:END -->
 
 [![Blog](https://img.shields.io/badge/blog.debuginn.com-0066ff?logo=blogger&logoColor=white)](https://blog.debuginn.com)
 [![X](https://img.shields.io/badge/@idebuginn-000000?logo=x&logoColor=white)](https://twitter.com/idebuginn)

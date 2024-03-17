@@ -1,10 +1,10 @@
 ### 🤠 Hi，我是 Meng小羽
 
 <!-- BLOG-POST-LIST:START -->
-- 👨‍🏫 [Thursday, March 7, 2024 Phoenix框架 从0到1设计业务并发框架 小米商...](https://blog.debuginn.com/p/phoenix-framework-1/)
-- 🦄 [Sunday, December 31, 2023 2023 年度总结](https://blog.debuginn.com/p/debuginn-2023/)
-- 💃 [Monday, December 4, 2023 2023 年为何我还在使用 RSS](https://blog.debuginn.com/p/debuginn-2023-rss/)
-- 🤔 [Sunday, November 12, 2023 谈谈 ChatGPT](https://blog.debuginn.com/p/talk-about-chat-gpt/)<!-- BLOG-POST-LIST:END -->
+- 👨‍🏫 [2024-03-07 Phoenix框架 从0到1设计业务并发框架 小米商...](https://blog.debuginn.com/p/phoenix-framework-1/)
+- 🦄 [2023-12-31 2023 年度总结](https://blog.debuginn.com/p/debuginn-2023/)
+- 💃 [2023-12-04 2023 年为何我还在使用 RSS](https://blog.debuginn.com/p/debuginn-2023-rss/)
+- 🤔 [2023-11-12 谈谈 ChatGPT](https://blog.debuginn.com/p/talk-about-chat-gpt/)<!-- BLOG-POST-LIST:END -->
 
 [![Blog](https://img.shields.io/badge/blog.debuginn.com-0066ff?logo=blogger&logoColor=white)](https://blog.debuginn.com)
 [![X](https://img.shields.io/badge/@idebuginn-000000?logo=x&logoColor=white)](https://twitter.com/idebuginn)

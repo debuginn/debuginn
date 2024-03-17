@@ -1,7 +1,7 @@
 ### 🤠 Hi，我是 Meng小羽
 
 <!-- BLOG-POST-LIST:START -->
-- 👨‍🏫 [2024-03-07 Phoenix框架 从0到1设计业务并发框架 小米商...](https://blog.debuginn.com/p/phoenix-framework-1/)
+- 👨‍🏫 [2024-03-07 Phoenix框架 从0到1设计业务并发框架 小米商城产品站革新之路](https://blog.debuginn.com/p/phoenix-framework-1/)
 - 🦄 [2023-12-31 2023 年度总结](https://blog.debuginn.com/p/debuginn-2023/)
 - 💃 [2023-12-04 2023 年为何我还在使用 RSS](https://blog.debuginn.com/p/debuginn-2023-rss/)
 - 🤔 [2023-11-12 谈谈 ChatGPT](https://blog.debuginn.com/p/talk-about-chat-gpt/)<!-- BLOG-POST-LIST:END -->

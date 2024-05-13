@@ -1,10 +1,10 @@
 ### 🤠 Hi，我是 Meng小羽
 
 <!-- BLOG-POST-LIST:START -->
-- 👨‍🏫 [2024-04-07 Phoenix框架 从0到1设计业务并发框架 并发线程池的核心设计](https://blog.debuginn.com/p/phoenix-framework-3/)
-- 🦄 [2024-03-18 Phoenix框架 从0到1设计业务并发框架 怎么组织设计一个框架](https://blog.debuginn.com/p/phoenix-framework-2/)
-- 💃 [2024-03-07 Phoenix框架 从0到1设计业务并发框架 小米商城产品站革新之路](https://blog.debuginn.com/p/phoenix-framework-1/)
-- 🤔 [2023-12-31 2023 年度总结](https://blog.debuginn.com/p/debuginn-2023/)<!-- BLOG-POST-LIST:END -->
+- 👨‍🏫 [2024-05-13 Phoenix框架 从0到1设计业务并发框架 自动构建有向无循环图设计](https://blog.debuginn.com/p/phoenix-framework-4/)
+- 🦄 [2024-04-07 Phoenix框架 从0到1设计业务并发框架 并发线程池的核心设计](https://blog.debuginn.com/p/phoenix-framework-3/)
+- 💃 [2024-03-18 Phoenix框架 从0到1设计业务并发框架 怎么组织设计一个框架](https://blog.debuginn.com/p/phoenix-framework-2/)
+- 🤔 [2024-03-07 Phoenix框架 从0到1设计业务并发框架 小米商城产品站革新之路](https://blog.debuginn.com/p/phoenix-framework-1/)<!-- BLOG-POST-LIST:END -->
 
 [![Blog](https://img.shields.io/badge/blog.debuginn.com-0066ff?logo=blogger&logoColor=white)](https://blog.debuginn.com)
 [![X](https://img.shields.io/badge/@idebuginn-000000?logo=x&logoColor=white)](https://twitter.com/idebuginn)

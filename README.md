@@ -20,4 +20,4 @@
     </a>
 </p>
 
-[![技能树](https://skillicons.dev/icons?i=go,java,spring,maven,mysql,postgres,redis,mongodb,linux,bash,docker,kubernetes,grafana,prometheus,nginx,git,vim,idea,vscode,md,postman,stackoverflow&theme=light)](https://blog.debuginn.com/project/)
+[![技能树](https://skillicons.dev/icons?i=go,java,spring,maven,mysql,postgres,redis,mongodb,linux,bash,docker,kubernetes,grafana,prometheus,nginx,git,github,gitlab,vim,idea,vscode,md,postman,stackoverflow,apple,obsidian,ps,cloudflare&theme=light)](https://blog.debuginn.com/project/)

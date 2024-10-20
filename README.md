@@ -1,10 +1,10 @@
 ### 🤠 Hi，我是 Meng小羽
 
 <!-- BLOG-POST-LIST:START -->
-- 👨‍🏫 [2024-10-13 Follow｜下一代的信息浏览器](https://blog.debuginn.com/p/follow-app/)
-- 🦄 [2024-09-09 使用 GOTRACEBACK 快速定位你的 Panic](https://blog.debuginn.com/p/go-env-gotraceback/)
-- 💃 [2024-05-13 Phoenix框架 从0到1设计业务并发框架 自动构建有向无循环图设计](https://blog.debuginn.com/p/phoenix-framework-4/)
-- 🤔 [2024-04-07 Phoenix框架 从0到1设计业务并发框架 并发线程池的核心设计](https://blog.debuginn.com/p/phoenix-framework-3/)<!-- BLOG-POST-LIST:END -->
+- 👨‍🏫 [2024-10-20 Follow ｜下一代信息浏览器 第二弹来了](https://blog.debuginn.com/p/follow-app-2/)
+- 🦄 [2024-10-13 Follow｜下一代的信息浏览器](https://blog.debuginn.com/p/follow-app/)
+- 💃 [2024-09-09 使用 GOTRACEBACK 快速定位你的 Panic](https://blog.debuginn.com/p/go-env-gotraceback/)
+- 🤔 [2024-05-13 Phoenix框架 从0到1设计业务并发框架 自动构建有向无循环图设计](https://blog.debuginn.com/p/phoenix-framework-4/)<!-- BLOG-POST-LIST:END -->
 
 [![Blog](https://img.shields.io/badge/blog.debuginn.com-0066ff?logo=blogger&logoColor=white)](https://blog.debuginn.com)
 [![X](https://img.shields.io/badge/@idebuginn-000000?logo=x&logoColor=white)](https://twitter.com/idebuginn)

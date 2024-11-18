@@ -1,7 +1,7 @@
 ### 🤠 Hi，我是 Meng小羽
 
 <!-- BLOG-POST-LIST:START -->
-- 👨‍🏫 [2024-11-10 Follow 给我空投了 1w 代币，可以无限发码啦～](https://blog.debuginn.com/p/follow-app-airdrop/)
+- 👨‍🏫 [2024-11-18 Follow 给我空投了 1w 代币，可以无限发码啦～](https://blog.debuginn.com/p/follow-app-airdrop/)
 - 🦄 [2024-10-20 Follow ｜下一代信息浏览器 第二弹来了](https://blog.debuginn.com/p/follow-app-2/)
 - 💃 [2024-10-13 Follow｜下一代的信息浏览器](https://blog.debuginn.com/p/follow-app/)
 - 🤔 [2024-09-09 使用 GOTRACEBACK 快速定位你的 Panic](https://blog.debuginn.com/p/go-env-gotraceback/)<!-- BLOG-POST-LIST:END -->

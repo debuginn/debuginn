@@ -1,10 +1,10 @@
 ### 🤠 Hi，我是 Meng小羽
 
 <!-- BLOG-POST-LIST:START -->
-- 👨‍🏫 [2024-12-31 2024 年度总结](https://blog.debuginn.com/p/debuginn-2024/)
-- 🦄 [2024-11-23 答 《博客作者呀，我想采访你这 9 个问题！》 问卷](https://blog.debuginn.com/p/answer-anotherdayu/)
-- 💃 [2024-11-18 Follow 给我空投了 1w 代币，可以无限发码啦～](https://blog.debuginn.com/p/follow-app-airdrop/)
-- 🤔 [2024-10-20 Follow ｜下一代信息浏览器 第二弹来了](https://blog.debuginn.com/p/follow-app-2/)<!-- BLOG-POST-LIST:END -->
+- 👨‍🏫 [2025-01-19 送送送，微信红包封面了，速领～](https://blog.debuginn.com/p/wechat-red-packet-25/)
+- 🦄 [2024-12-31 2024 年度总结](https://blog.debuginn.com/p/debuginn-2024/)
+- 💃 [2024-11-23 答 《博客作者呀，我想采访你这 9 个问题！》 问卷](https://blog.debuginn.com/p/answer-anotherdayu/)
+- 🤔 [2024-11-18 Follow 给我空投了 1w 代币，可以无限发码啦～](https://blog.debuginn.com/p/follow-app-airdrop/)<!-- BLOG-POST-LIST:END -->
 
 [![Blog](https://img.shields.io/badge/blog.debuginn.com-0066ff?logo=blogger&logoColor=white)](https://blog.debuginn.com)
 [![X](https://img.shields.io/badge/@idebuginn-000000?logo=x&logoColor=white)](https://twitter.com/idebuginn)

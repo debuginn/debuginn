@@ -1,10 +1,10 @@
 ### 🤠 Hi，我是 Meng小羽
 
 <!-- BLOG-POST-LIST:START -->
-- 👨‍🏫 [2025-07-08 入职 5 周年，我和小米的 5 周年](https://blog.debuginn.com/p/work-5-years/)
-- 🦄 [2025-05-10 五一环渤海南海岸自驾之旅](https://blog.debuginn.com/p/travel-bohainan/)
-- 💃 [2025-01-19 送送送，微信红包封面了，速领～](https://blog.debuginn.com/p/wechat-red-packet-25/)
-- 🤔 [2024-12-31 2024 年度总结](https://blog.debuginn.com/p/debuginn-2024/)<!-- BLOG-POST-LIST:END -->
+- 👨‍🏫 [2025-07-26 我的使用](https://blog.debuginn.com/use/)
+- 🦄 [2025-07-08 入职 5 周年，我和小米的 5 周年](https://blog.debuginn.com/p/work-5-years/)
+- 💃 [2025-05-10 游记 五一环渤海南海岸自驾之旅](https://blog.debuginn.com/p/travel-bohainan/)
+- 🤔 [2025-01-19 送送送，微信红包封面了，速领～](https://blog.debuginn.com/p/wechat-red-packet-25/)<!-- BLOG-POST-LIST:END -->
 
 [![Blog](https://img.shields.io/badge/blog.debuginn.com-0066ff?logo=blogger&logoColor=white)](https://blog.debuginn.com)
 [![X](https://img.shields.io/badge/@idebuginn-000000?logo=x&logoColor=white)](https://twitter.com/idebuginn)

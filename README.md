@@ -11,13 +11,4 @@
 [![WeChat](https://img.shields.io/badge/@debuginn-07C160?logo=wechat&logoColor=white)](https://blog.debuginn.com/subscribe)
 [![Profile views](https://komarev.com/ghpvc/?username=debuginn&color=blueviolet)](https://github.com/debuginn)
 
-<p>
-    <a href="#">
-        <img height="159px" src="https://github-readme-stats.vercel.app/api?username=debuginn&show_icons=true&theme=github_dark_dimmed&layout=compact" />
-    </a>
-     <a href="#">
-        <img height="159px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuginn&theme=github_dark_dimmed&layout=compact&hide=javascript,html,css,php,scss" />
-    </a>
-</p>
-
 [![技能树](https://skillicons.dev/icons?i=go,java,spring,maven,mysql,postgres,redis,mongodb,linux,bash,docker,kubernetes,grafana,prometheus,nginx,git,github,gitlab,vim,idea,vscode,md,postman,stackoverflow,apple,obsidian,ps,cloudflare&theme=light)](https://blog.debuginn.com/project/)

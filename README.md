@@ -5,6 +5,7 @@
 - 🦄 [2025-08-23 免费无版权图片素材网站推荐](https://blog.debuginn.com/p/free-photo/)
 - 💃 [2025-08-17 首场 Trae Meetup， 国产 AI IDE 有着不一样的思路](https://blog.debuginn.com/p/meetup-trae/)
 - 🤔 [2025-08-13 赞赏](https://blog.debuginn.com/reward/)<!-- BLOG-POST-LIST:END -->
+- 🍔 [访问博客，更多文章期待您的阅读～](https://blog.debuginn.com)
 
 [![Blog](https://img.shields.io/badge/blog.debuginn.com-0066ff?logo=blogger&logoColor=white)](https://blog.debuginn.com)
 [![X](https://img.shields.io/badge/@idebuginn-000000?logo=x&logoColor=white)](https://twitter.com/idebuginn)

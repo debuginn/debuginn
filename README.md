@@ -1,10 +1,10 @@
 ### 🤠 Hi，我是 Meng小羽
 
 <!-- BLOG-POST-LIST:START -->
-- 👨‍🏫 [2025-12-15 游记 福建 5天4夜 蜜月旅行](https://blog.debuginn.com/p/travel-fuzhou-honeymoon/)
-- 🦄 [2025-09-06 游记 张北草原天路自驾之旅](https://blog.debuginn.com/p/travel-zhangbei/)
-- 💃 [2025-08-23 免费无版权图片素材网站推荐](https://blog.debuginn.com/p/free-photo/)
-- 🤔 [2025-08-17 首场 Trae Meetup， 国产 AI IDE 有着不一样的思路](https://blog.debuginn.com/p/meetup-trae/)<!-- BLOG-POST-LIST:END -->
+- 👨‍🏫 [2025-12-31 2025 年度总结](https://blog.debuginn.com/p/debuginn-2025/)
+- 🦄 [2025-12-15 游记 福建 5天4夜 蜜月旅行](https://blog.debuginn.com/p/travel-fuzhou-honeymoon/)
+- 💃 [2025-09-06 游记 张北草原天路自驾之旅](https://blog.debuginn.com/p/travel-zhangbei/)
+- 🤔 [2025-08-23 免费无版权图片素材网站推荐](https://blog.debuginn.com/p/free-photo/)<!-- BLOG-POST-LIST:END -->
 - 🍔 [访问博客，更多文章期待您的阅读～](https://blog.debuginn.com)
 
 [![Blog](https://img.shields.io/badge/blog.debuginn.com-0066ff?logo=blogger&logoColor=white)](https://blog.debuginn.com)

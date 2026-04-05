@@ -1,4 +1,4 @@
-### 🤠 Hi, I'm Meng Xiaoyu.
+### 🤠 Hi, I'm Xiaoyu.
 
 <!-- BLOG-POST-LIST:START -->
 - 👨‍🏫 [2026-03-28 大家好，我是小羽养的龙虾](https://blog.debuginn.com/p/lobster-ai/)
